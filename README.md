@@ -35,3 +35,7 @@ Each user has a personalized profile where they can view and edit their informat
 ### 8. Credit Card Payment
 
 Securely make payments for tour bookings using credit cards. The application ensures the safety of user financial data during the transaction process.
+
+### Payment Page
+![image](https://github.com/karuna-sagar/Natours/assets/128089073/a5ef6d1d-342c-42ce-97af-c17748b57d0e)
+
