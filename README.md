@@ -1,7 +1,3 @@
-
-
-https://github.com/karuna-sagar/Natours/assets/128089073/108f38b1-a11f-429c-b24d-7547a00330ea
-
 # Project Name # Natours
 
 Welcome to Project Name! This application provides various features to enhance your experience and manage your bookings for tours. Below, you'll find a list of key features available in this project:
