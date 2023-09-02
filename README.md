@@ -40,6 +40,10 @@ Securely make payments for tour bookings using credit cards. The application ens
 ![image](https://github.com/karuna-sagar/Natours/assets/128089073/a5ef6d1d-342c-42ce-97af-c17748b57d0e)
 ### Overview
 https://github.com/karuna-sagar/Natours/assets/128089073/dfb1b7a9-82a8-4ac7-8eed-009f12fae665
+### Payment Pages
 
 
 
+(https://github.com/karuna-sagar/Natours/assets/128089073/5a917b89-249b-4e0d-8032-5190bb281a53)
+(https://github.com/karuna-sagar/Natours/assets/128089073/3d2b7cd0-b4b1-45db-8d51-5487f47126c0)
+(https://github.com/karuna-sagar/Natours/assets/128089073/2ac628cc-07ed-4f97-aadb-120acf6829a9)
