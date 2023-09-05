@@ -31,14 +31,22 @@ Users can read and leave reviews and ratings for tours they have experienced. Th
 ### 7. User Profile
 
 Each user has a personalized profile where they can view and edit their information, including their username, profile photo, email, and password.
-### Home Page
+### 8. Home Page
 ![image](https://github.com/karuna-sagar/Natours/assets/128089073/1713695d-0a5c-44d2-adb9-8a2d223af957)
+![image](https://github.com/karuna-sagar/Natours/assets/128089073/71039fab-b4e4-4f25-ae9c-82d3d6f81dce)
+![image](https://github.com/karuna-sagar/Natours/assets/128089073/7b7d72b8-b446-4188-ba4d-b4bf5ae039ed)
+### 9. Login Page
+![image](https://github.com/karuna-sagar/Natours/assets/128089073/473fd259-a45a-4bf2-a9d6-162cbe897102)
+### 10.  Sign Up Page
+![image](https://github.com/karuna-sagar/Natours/assets/128089073/6597576c-0a63-4016-9c27-ee4bfadaf1cc)
 
-### 8. Credit Card Payment
+
+
+### 11. Credit Card Payment
 
 Securely make payments for tour bookings using credit cards. The application ensures the safety of user financial data during the transaction process.
 
-### Payment Page
+### 12. Payment Page
 ![image](https://github.com/karuna-sagar/Natours/assets/128089073/a5ef6d1d-342c-42ce-97af-c17748b57d0e)
 ### Overview
 https://github.com/karuna-sagar/Natours/assets/128089073/dfb1b7a9-82a8-4ac7-8eed-009f12fae665
