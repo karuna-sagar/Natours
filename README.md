@@ -31,6 +31,8 @@ Users can read and leave reviews and ratings for tours they have experienced. Th
 ### 7. User Profile
 
 Each user has a personalized profile where they can view and edit their information, including their username, profile photo, email, and password.
+### Home Page
+![image](https://github.com/karuna-sagar/Natours/assets/128089073/1713695d-0a5c-44d2-adb9-8a2d223af957)
 
 ### 8. Credit Card Payment
 
